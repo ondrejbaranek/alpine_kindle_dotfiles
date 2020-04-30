@@ -6,6 +6,6 @@ Type=Application
 Terminal=false
 Icon=go-up
 Icon[de_DE]=go-up
-Name[de_DE]=Up
 Exec=xdotool key Page_Up
 Name=Up
+Name[de_DE]=Up
